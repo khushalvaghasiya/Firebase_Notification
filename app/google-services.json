@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "374200276571",
+    "project_id": "sospolice-c48e6",
+    "storage_bucket": "sospolice-c48e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374200276571:android:e4dd04c4985a6915f0117e",
+        "android_client_info": {
+          "package_name": "com.example.myfirebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374200276571-eiuuq6dl5qh7s2d1f0d25uvsvu705l10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdL-3SKWBHyG0ethM7W9QNaewft3UPUh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374200276571-eiuuq6dl5qh7s2d1f0d25uvsvu705l10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
