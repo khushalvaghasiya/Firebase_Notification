@@ -81,7 +81,7 @@ public class MainActivity extends AppCompatActivity {
                 smsText="HELP REQUIRED \n HBL Korangi Branch Karachi";
                 SmsManager smsManager =SmsManager.getDefault();
                 try {
-                    smsManager.sendTextMessage("923343239874",null,smsText,null,null);
+                    smsManager.sendTextMessage("8000028937",null,smsText,null,null);
                     Toast.makeText(getApplicationContext(),"SMS Sent",Toast.LENGTH_LONG).show();
                 }
                 catch (Exception ex){
